@@ -1,0 +1,8 @@
+[01:32:07 INF] app start
+[01:32:08 INF] Application started. Press Ctrl+C to shut down.
+[01:32:08 INF] Hosting environment: Development
+[01:32:08 INF] Content root path: D:\iti\API course\tasks\HottelList\HottelList
+[01:32:08 INF] Request starting HTTP/2 GET https://localhost:44325/swagger/index.html - -
+[01:32:08 INF] Request finished HTTP/2 GET https://localhost:44325/swagger/index.html - - - 200 - text/html;charset=utf-8 102.5831ms
+[01:32:08 INF] Request starting HTTP/2 GET https://localhost:44325/swagger/v1/swagger.json - -
+[01:32:08 INF] Request finished HTTP/2 GET https://localhost:44325/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.0678ms
